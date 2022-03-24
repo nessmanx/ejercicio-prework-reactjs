@@ -9,8 +9,10 @@ function App() {
         <p>
           <h1>
             Hola Platzi
-
           </h1>
+          <h3>
+            Hola de nuevo
+          </h3>
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <a
